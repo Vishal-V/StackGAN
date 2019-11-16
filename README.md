@@ -1,7 +1,5 @@
 # StackGAN
 ### Text to Photo-Realistic Image Synthesis
-#
-**Note:** This is the code I have submitted to TensorFlow for Google Summer of Code. Hence the attributions and the License is for "TensorFlow Authors" and not "Vishal V"
 ---
 #### Dependencies
 ```
@@ -59,3 +57,5 @@ python model.py
 3. **Generative Adversarial Text to Image Synthesis** [[Arxiv Link](https://arxiv.org/pdf/1605.05396.pdf)]
 4. **Learning Deep Representations of Fine-Grained Visual Descriptions** [[Arxiv Link](https://arxiv.org/abs/1605.05395)]
 ---
+#### Note
+This is the code I have submitted to TensorFlow for Google Summer of Code. Hence the attributions and the License is for "TensorFlow Authors" and not "Vishal V". This code is under the MIT License.
