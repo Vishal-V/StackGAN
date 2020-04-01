@@ -23,7 +23,7 @@ import os
 import argparse
 from absl import app
 import tensorflow as tf
-assert tf.__version__.startswith('2')
+assert tf.version.VERSION.startswith('2')
 
 ap = argparse.ArgumentParser()
 ap.add_argument('-dp', '--download_path', required=False, help='Download Path')
