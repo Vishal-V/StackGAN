@@ -3,7 +3,7 @@
 ---
 #### Dependencies
 ```
-tensorflow==2.0
+tensorflow==2.1.0
 numpy==1.16.4
 absl_py==0.7.0
 matplotlib==2.2.3
